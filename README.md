@@ -1,7 +1,7 @@
 # Sparks_Foundation_Tasks
 
 #### Task 1: Prediction Using Supervised Machine Learning
-#### Problem Statement: Predict the score of a student, if the student studies for 9.25 hours/day\
+#### Problem Statement: Predict the score of a student, if the student studies for 9.25 hours/day
 
 
 
